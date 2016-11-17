@@ -1,1 +1,3 @@
 public class game extends Canvas implements Runnable
+
+lala la ala
